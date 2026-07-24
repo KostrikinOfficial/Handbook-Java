@@ -1,6 +1,7 @@
 ## `☕ Java - это объектно-ориентированный язык программирования общего назначения, созданный с упором на переносимость, надежность и защиту`
 ___
-### [Аналогии с реальной жизнью](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%E2%84%B9%EF%B8%8F%20%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20Java.md)
+### [Термины Java](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%E2%84%B9%EF%B8%8F%20%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20Java.md)
+### [Аналогии с реальной жизнью](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%F0%9F%94%8E%20%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.md)
 ___
 ## Изучено:
 ### ❌ Java Core:
